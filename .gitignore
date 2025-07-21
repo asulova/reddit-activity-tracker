@@ -1,0 +1,9 @@
+.zen
+data
+.cache
+.env
+*.csv
+test.ipynb
+/**/*__pycache__
+venv/
+reading_history.csv
